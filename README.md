@@ -19,6 +19,9 @@ El proyecto muestra la integraci√≥n y uso de React Hook Form, Zod para validaci√
 
 ```shell
 git clone https://github.com/lace04/react-hook-form-zod-ts-nextjs.git
+```
+
+```shell
 cd react-hook-form-zod-nextjs
 ```
 
