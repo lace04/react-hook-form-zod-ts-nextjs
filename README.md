@@ -37,7 +37,20 @@ Esto iniciará la aplicación Next.js localmente.
 
 ## Uso
 
-Describe cómo usar o interactuar con el proyecto aquí.
+Una vez que hayas clonado el repositorio y hayas instalado las dependencias necesarias, puedes comenzar a explorar y utilizar el proyecto. Aquí te dejo algunos pasos para empezar:
+
+1. **Iniciar la aplicación**: Ejecuta `npm run dev` en tu terminal. Esto iniciará la aplicación Next.js en tu entorno local.
+
+2. **Navega a la aplicación**: Abre tu navegador web y visita `http://localhost:3000`. Aquí podrás ver la aplicación en funcionamiento.
+
+3. **Explora el código**: Abre el proyecto en tu editor de código favorito y explora la estructura del código. Verás cómo se implementan React Hook Form y Zod para la validación de formularios en un entorno TypeScript.
+
+4. **Realiza cambios**: Siéntete libre de realizar cambios en el código para experimentar y entender mejor cómo funciona todo. Puedes modificar los formularios, cambiar las reglas de validación, o incluso agregar nuevas características.
+
+5. **Prueba la validación del formulario**: En la aplicación, prueba a rellenar el formulario y envíalo para ver cómo funciona la validación. Intenta enviar el formulario con datos inválidos para ver cómo Zod maneja la validación y muestra los errores.
+
+Recuerda, la mejor manera de aprender es experimentando y probando cosas por ti mismo. ¡Disfruta explorando el proyecto!
+
 
 ## Contribuir
 
